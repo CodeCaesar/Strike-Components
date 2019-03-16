@@ -1,3 +1,8 @@
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
 # Strike by Appiphony
 ### Work smarter (not harder) with Salesforce Lightning Components
 Current release: 1.0.0  
